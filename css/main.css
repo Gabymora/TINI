@@ -1,0 +1,98 @@
+header {
+	background-color: #FBCA20;
+	padding-bottom: 300px;
+}
+
+/*.................PROPIEDADES DEL MENU SUPERIOR DERECHO................*/
+nav ul{
+list-style-type: none;
+padding-top: 0px;
+font-size: 15px;
+white-space: nowrap;
+float: right;
+}
+nav li {
+position: relative;
+float: right;
+padding: 0;
+text-align: center;
+}
+nav a {
+text-decoration: none;
+padding: 0px 5px 1px 5px;
+color:#FEF0D9;
+font-family: Roboto;
+}
+/*......................................................................*/
+
+.cuad1{			/*Cuadro de sumate*/
+padding: 12px;
+margin-top: 20px;
+background-color: orange;
+text-align: center;
+color:white;
+}
+
+h1 {			/* Laboratoria*/
+text-align: center;
+color: white;
+margin-top: 200px;
+font-family: Roboto;
+}
+
+.p1{		/* Nuestro portafolio*/
+text-align: center;
+color:white;
+margin-top: 0px;
+}
+/*................................FIN DE HEADER....................................*/
+
+section{
+	background-color: #E1E1E1;
+}
+#c1{
+	background-color: white;
+	margin-top: 60px;
+	margin-bottom: 20px;
+	width: 400px;
+	margin-left: 50px;
+}
+#c2 {
+	background-color: #949292;
+	width: 300px;
+	height: 300px;
+	padding: 88px;
+	margin: 30px 0px 20px 35px;
+	text-align: center;
+	color: white;
+	font-family: Impact;
+	font-size: 30px
+}
+#c3 {
+	padding: 5px;
+	margin: 10px 0px 10px 120px;
+	background-color: orange;
+	text-align: center;
+	color:white;
+}
+a {		/*Propiedad general de los links*/
+	color: white;
+	text-decoration: none;
+}
+
+.p2 {
+	font-size:11px;
+	text-align: justify;
+	font-family: arial;
+}
+/*****************FOOTER************************/
+footer {
+background: #434141;
+padding-bottom: 80px;
+}
+.p3 {		/*Datos de laboratoria al final*/
+color: white;
+font-size: 15px;
+text-align: left;
+margin-top: 30px
+}
